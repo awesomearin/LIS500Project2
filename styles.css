@@ -92,3 +92,9 @@ footer.site-footer {
   padding: 20px 20px;
   text-align: left;
 }
+
+.person {
+  display: flex;
+  justify-content: left;
+  text-align: left;
+}
